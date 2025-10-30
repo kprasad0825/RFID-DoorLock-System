@@ -1,0 +1,8 @@
+1. Arduino Uno
+2. RFID RC522 Module
+3. Servo Motor
+4. I2C 16x2 LCD Display
+5. Jumper Wires
+6. Breadboard
+7. RFID Tags / Keycards
+8. USB Cable or External 9V Power Supply
